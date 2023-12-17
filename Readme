@@ -1,0 +1,26 @@
+Structured Completion Update for Contlo
+
+I am pleased to report that I have completed the majority of the tasks outlined in Assignment 2_BT20ECE022.pdf to the best of my ability. Below is a summary of my progress for each task:
+
+Task 1: Model Checkpoints Integration (Task1.py)
+
+Successfully located and integrated pre-trained model checkpoints into the code using download_model.py.
+This required careful analysis of checkpoint compatibility and integration methods.
+Task 2: Architectural Changes (Task2.py)
+
+Implemented two challenging modifications:
+Sliding Window Attention: This involved understanding the algorithm and adapting it to the existing code structure. I overcame difficulties with memory optimization and window size selection.
+Rotary Positional Embedding: I successfully coded this technique based on research papers and achieved accurate embedding integration.
+Task 3: Distributed Training (Task3.py)
+
+While I am confident in the direction of my implementation, this task remains partly incomplete.
+I have provided a partial code base in Task3.py outlining my approach for distributing training across multiple GPUs.
+Additional work is needed to finalize communication protocols and optimize performance.
+Deliverables:
+
+Code for all tasks is available in separate Python files: Task1.py, Task2.py, and Task3.py.
+For reference, I have also attached the image you provided for Task 3.
+Next Steps:
+
+I am eager to receive your feedback on my work and discuss potential improvements.
+I am happy to clarify any uncertainties or provide additional support for finalizing Task 3.
